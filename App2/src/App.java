@@ -429,7 +429,7 @@ public class App extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
-        String url = "https://github.com/lilvagg/crypto-tracker" ;
+        String url = "https://github.com/VaggelisGian/crypto-tracker" ;
         String osName = System.getProperty("os.name");
 		try {
 			if (osName.startsWith("Windows"))
